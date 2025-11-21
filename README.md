@@ -86,7 +86,8 @@
 <img width="435" height="847" alt="image" src="https://github.com/user-attachments/assets/8426e694-aa6b-47a1-b16d-d40290d6cec2" />
 <img width="435" height="847" alt="image" src="https://github.com/user-attachments/assets/ed39cd16-5e2a-4ca8-add2-788eac6003af" />
 <img width="435" height="847" alt="image" src="https://github.com/user-attachments/assets/310dbdbe-7490-4952-9304-e292cacdff1d" />
-
+## UI Made with Figma Make :
+https://www.figma.com/make/00YfRYV56PTQlDGV4taGON/Clinic-Management-App-UI?t=MiWY6X5gFboupNen-20&fullscreen=1
 ---
 
 ## Video Demo
@@ -106,8 +107,7 @@
 5. Open a pull request.
 
 Feedback and suggestions are welcome—please open an issue to discuss improvements or report bugs.
-UI Made with Figma Make :
-https://www.figma.com/make/00YfRYV56PTQlDGV4taGON/Clinic-Management-App-UI?t=MiWY6X5gFboupNen-20&fullscreen=1
+
 ---
 
 ## License
